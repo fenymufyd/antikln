@@ -3,8 +3,8 @@ Repo berisi kumpulan filter untuk iklan, gangguan, dll untuk dipakai di uBlock O
 
 # list filter
 Nama | Deskripsi | Jumlah domain | raw link | mirror
-indonmediaBS | komplemen abpindo untuk memfilter hal hal menggangu seperti baca juga, video dll di media indonesia
-fkecom| Kalau kalian tinggal di bunker atau cuma seorang minimalis yang ingin memblokir online shop karena tidak suka dengan kapitalisme kalian tidak pernah belanja atau jengkel melihat iklan mereka
+indonmediaBS | komplemen abpindo untuk memfilter konten menggangu seperti "baca juga", video embed, sticky header, useless sidebar, dan lain lain di website media indonesia|?|#|#
+fkecom| Anti konsumerisme! blokir website olshop.|?|#|#
 
 # penggunaan
 Bisa dibuka Filterlistsfsd.otsg terus cari nama saya tinggal subskreb
