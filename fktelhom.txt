@@ -1,0 +1,34 @@
+# Blok Iklan Telkom Indihome
+0.0.0.0 cfs.uzone.id
+0.0.0.0 cfs2.uzone.id
+0.0.0.0 cfs.u-ad.info
+0.0.0.0 cfs.u-zone.info
+0.0.0.0 uzone.id
+0.0.0.0 u-ad.info
+0.0.0.0 a01.uadexchange.com
+0.0.0.0 mercusuar.uzone.id
+0.0.0.0 v3.mercusuar.uzone.id
+0.0.0.0 welcome.indihome.co.id
+0.0.0.0 indihome.co.id
+0.0.0.0 a02.uadexchange.com
+0.0.0.0 a03.uadexchange.com
+0.0.0.0 uadexchange.com
+0.0.0.0 cdn3.uzone.id
+0.0.0.0 cdn.uzone.id
+0.0.0.0 csf.uzone.id
+0.0.0.0 d01.notifa.info
+0.0.0.0 expose.uzone.id
+0.0.0.0 internetpositif.uzone.id
+0.0.0.0 kendedes.uzone.id
+0.0.0.0 notifa.info
+0.0.0.0 p01.notifa.info
+0.0.0.0 p02.notifa.info
+0.0.0.0 p03.notifa.info
+0.0.0.0 p04.notifa.info
+0.0.0.0 p05.notifa.info
+0.0.0.0 upoint.id
+0.0.0.0 usearch.co.id
+
+#produk telkom lain
+0.0.0.0 wifi.id
+0.0.0.0 loop.co.id

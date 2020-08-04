@@ -1,0 +1,12 @@
+0.0.0.0 bhinneka.com
+0.0.0.0 blibli.com
+0.0.0.0 bukalapak.com
+0.0.0.0 jd.id
+0.0.0.0 lazada.co.id
+0.0.0.0 olx.co.id
+0.0.0.0 orami.co.id
+0.0.0.0 shopee.co.id
+0.0.0.0 sociolla.com
+0.0.0.0 tokopedia.com
+0.0.0.0 zalora.co.id
+0.0.0.0 elevenia.co.id

@@ -1,0 +1,395 @@
+alinea.id##.ads-billboard:upward(1)
+alinea.id##.bacajuga
+alinea.id##.datacovid
+alinea.id##.hightlight
+alinea.id##.newsslide
+alinea.id##.sosmedshare
+alinea.id##.tags
+alinea.id##footer
+alinea.id##section.
+alodokter.com##.side-container
+alodokter.com##link-button-
+antaranews.com###comments
+antaranews.com###respond
+antaranews.com##.blog-content.row > .col-md-4:has(.tabwidget.widget)
+antaranews.com##.blog-content.row > .col-md-8:style(width:100% !important)
+antaranews.com##.post-meta
+antaranews.com##span.baca-juga
+antaranews.com##span.baca-juga+br
+antaranews.com##span.baca-juga+br+br
+apahabar.com###sidebar-single
+apahabar.com###single-content:style(max-width:100% !important)
+apahabar.com##.footer-media-sosial-wrap > div
+apahabar.com##.header-banner-wrap > div:nth-of-type(1)
+apahabar.com##.related-post-wrap
+apahabar.com##.sidebar-single-wrap
+apahabar.com##.single-media-social
+apahabar.com##.tagname
+apahabar.com##div>a:has-text(/baca juga :/i)
+apahabar.com##header:style(position:absolute !important)
+asumsi.co##
+asumsi.co##.bottom-tags:upward(2)
+asumsi.co##.navbar-custom.fixed-top.navbar-expand-lg.navbar:style(position:absolute !important)
+asumsi.co##.related-article-detail
+asumsi.co##.share
+bagas31.info##.coc-gems
+bagas31.info##.frame-banner-places-popup
+bagas31.info##.socialproff-bottom
+bagas31.info##:xpath(//a[href^=\"rajalisensi.com\"]/..)
+bagas31.info##:xpath(a[href^=\"https://rajalisensi.com\"])
+bagas31.info##a[href^=\"https://rajalisensi.com\"]
+bagas31.info##div.blogposts-inner[style=\"background: #fffbf2;border: 1px dashed #e89f5c;padding-top: 11px;border-radius: 10px;margin-top: -15px\"]
+bagas31.info##div[class^=\"popup-rl\"]
+bantenraya.com##.clearfix.mbf.posts_links
+bantenraya.com##.clearfix.mbf.posts_links ~*
+bantenraya.com##.sidebar
+beritamanado.com##.jnews_inline_related_post:upward(1)
+beritamanado.com##.jnews_related_post_container
+beritamanado.com##.text-91.widget.awac > .textwidget
+beritamanado.com##div.awac-wrapper ~div
+bnpb.go.id##.related
+bnpb.go.id##.sidebar
+cnbcindonesia.com##
+cnbcindonesia.com###detikLoginButton
+cnbcindonesia.com##.detail_terkait
+cnbcindonesia.com##.gtm_footer_downloadapps
+cnbcindonesia.com##.gtm_tag.mb45.mt35.trending-tag
+cnbcindonesia.com##.mb15.box:has-text(Video Lainnya):upward(1)
+cnbcindonesia.com##.mt10.lm_content:style(width:100% !important)
+cnbcindonesia.com##.r_content:has-text(/terpopuler/i)
+cnbcindonesia.com##.video_detail.sisip_embed_sosmed
+cnnindonesia.com###idautovideocnn
+cnnindonesia.com###idvideocnn:upward(1)
+cnnindonesia.com##.berita_terbaru_lst
+cnnindonesia.com##.l_content > hr
+cnnindonesia.com##.mb20.detail_tag
+cnnindonesia.com##.r_content
+cnnindonesia.com##a[href^=\"https://www.cnnindonesia.com/tag/\"]:style(color:#333 !important;pointer-events: none !important; cursor: default !important;font-weight:normal !important;)
+cnnindonesia.com##a[href^=\"https://www.cnnindonesia.com/tag/\"]>span:style(color:#333 !important;pointer-events: none !important; cursor: default !important;font-weight:normal !important;)
+cnnindonesia.com##div.mb20.box
+cnnindonesia.com##table.linksisip > tbody > tr > td > .lihatjg
+coconuts.co##main.bgd-mobile-white > .post-sheet > .container > .row-md-eq-border.row > .col-md-4:has-text(POPULAR)
+community.adobe.com##.adobe-global-nav.spectrum-grid--fluid
+detik.com###comm1
+detik.com###detikdetailtext > strong:has-text(Simak Video \")
+detik.com###komentar
+detik.com###notification_newsfeed
+detik.com###readtoogtm
+detik.com###relatedgtm:has-text(/berita terkait/i)
+detik.com###themood
+detik.com##+js(remove-attr.js, href, [href*=\"detik.com/tag/\"])
+detik.com##.bacajuga
+detik.com##.berita_terkait
+detik.com##.btn_like
+detik.com##.cb-artikel-lainnya:has-text(/lainnya/i)
+detik.com##.cb-berita-terkait:has-text(/terkait/i)
+detik.com##.cb-rekomendasi.box
+detik.com##.column-4
+detik.com##.detail_content:style(width:100% !important)
+detik.com##.detail_tag
+detik.com##.dtkframebar__bg:style(position:absolute !important)
+detik.com##.footer_wrapper
+detik.com##.mgt-16.detail__body-tag
+detik.com##.mp-nav-bot.mp-nav-ap.mp-nav
+detik.com##.mt15.boxlr ~div
+detik.com##.newstag
+detik.com##.nhl.section
+detik.com##.pull-right.dtkframebar__user
+detik.com##.r_content
+detik.com##.skybanner
+detik.com##.title_lr:has-text(Photo Gallery)
+detik.com##.video20detik.embed
+detik.com##a[href*detik.com/tag/"]:style(color:#000 !important;pointer-events: none !important; cursor: default !important;font-weight:normal !important;)
+detik.com##a[href^="https://adsmart.detik.com/"]
+detik.com##footer
+detik.com##span:has-text(/baca juga/i)
+detik.com##strong:has-text(Simak Video)
+detik.com##table:has-text(/baca juga/i)
+detikfakta.id###main > .gmr-box-content-single:has-text(Baca Juga)
+detikfakta.id###secondary
+detikfakta.id##.col-md-sgl-l
+detikfakta.id##.entry-content-single.entry-content > div:has(a:has-text(Baca Juga :))
+detikfakta.id##.fb-comments
+detikfakta.id##.gmr-social-share-intop > .gmr-socialicon-share
+detikfakta.id##.single-head-wrap.gmr-list-table:has-text(Ikuti Kami)
+dewanpers.or.id##.table-responsive.table-scrollable:style(overflow-x:unset !important;)
+dramaqu.live###ffs-alert-62
+en.antaranews.com##.baca-juga
+en.antaranews.com##.post-meta > .row:has-text(/prev news/i)
+geotimes.co.id##.footer-artikel
+geotimes.co.id##.related-artikel
+geotimes.co.id##.td-footer-template-9
+geotimes.co.id##.td-main-sidebar.col-xl-4.col-lg-4
+geotimes.co.id##div.inline-related-posts
+grid.id##p:has-text(/baca juga/i)
+gridoto.com##.btn-more.loadmore
+gridoto.com##.carpet
+gridoto.com##.clearfix.tags
+gridoto.com##.fixed.mainmenu
+gridoto.com##.logo__social
+gridoto.com##.news-related:has-text(/topik/i)
+gridoto.com##.read__right > strong:has-text(/baca juga/i)
+gridoto.com##.section__right
+gridoto.com##.topmenu
+gridoto.com##div.news-list:has-text(/yang lainnya/i)
+gridoto.com##div.news-related:has-text(/pilihan/i)
+gridoto.com##div.news-related:has-text(/terkait/i)
+harianaceh.co.id###pagination
+harianaceh.co.id##.cmts
+harianaceh.co.id##.h_m_1.h_m.header:style(position:absolute !important)
+harianaceh.co.id##.r-pf
+harianaceh.co.id##.srp
+harianaceh.co.id##footer
+hukumonline.com###berita-terkait
+id.berita.yahoo.com###YDC-Col2 > .sticky-outer-wrapper > .sticky-inner-wrapper
+id.berita.yahoo.com##p:has-text(Baca juga:):has(a)
+idntimes.com###article-content:style(max-height:100% !important)::after
+idntimes.com###article-content:style(max-height:100% !important;overflow:unset !important; position:unset !important;)
+idntimes.com##.article-content .split-page:style(display:block !important)
+idntimes.com##.box-running
+idntimes.com##.clearfix.latest-post
+idntimes.com##.content-post-comment
+idntimes.com##.content-post-topic
+idntimes.com##.divide-table-cell.share-role
+idntimes.com##.editors-pick
+idntimes.com##.icon-bar
+idntimes.com##.join-btn.btn
+idntimes.com##.read-more-btn-check
+idntimes.com##.sidebar-content
+idntimes.com##[href^=\"https://www.idntimes.com/\"] > strong > em
+idntimes.com##[src=\"/assets/img/icons/new.png\"]
+idntimes.com##footer
+idntimes.com##header:style(position:unset !important;)
+idntimes.com##p>a:has-text(/baca juga/i)
+indozone.id##.related
+jawapos.com##.col-lg-8:style(flex:auto !important;max-width:100% !important)
+jawapos.com##.col-md-4.col-lg-4
+jawapos.com##.content-tag
+jawapos.com##.content:style(width:100% !important)
+jawapos.com##.main-sidebar
+jawapos.com##.story-line
+jawapos.com##.trending-topic
+jawapos.com##footer
+jawapos.com##header:style(position:absolute !important;)
+jawapos.com##section.trending-topic ~section
+jejakrekam.com###respond
+jejakrekam.com##.adcontainer.container
+jejakrekam.com##.clearfix.next-prev-post
+jejakrekam.com##.post-related
+jejakrekam.com##div>p:if(strong:has-text(/baca/i))
+kapanlagi.com###lyric-bottomcontent > div.section-lirik
+kapanlagi.com###newsdetail-left-lirik
+kapanlagi.com###profile-menu-celebrity
+kapanlagi.com###v5-marcommpromotion2
+kapanlagi.com###v5-rightcontent
+kapanlagi.com##[src=\"https://cdns.klimg.com/kapanlagi.com/v5/i/channel/lirik/_pin.jpg\"]
+katadata.co.id##.match-margin
+katadata.co.id##footer
+kids.grid.id##.body__bg
+kids.grid.id##.comment
+kids.grid.id##.footer
+kids.grid.id##.js-gallery.mt2.section__left > .read__right
+kids.grid.id##.mt2.section__right
+kids.grid.id##.read.pagination
+kompas.com###ivs-section-header
+kompas.com###layoutWrapperID
+kompas.com###next_previous_inject
+kompas.com###rekomendasi
+kompas.com###related-regional
+kompas.com###slideOutId
+kompas.com###video-player-id
+kompas.com##.clearfix.discover
+kompas.com##.clearfix.flex.comment__read__box
+kompas.com##.clearfix.footer
+kompas.com##.clearfix.mt1.read__tagging
+kompas.com##.clearfix.mt2.ga--latest
+kompas.com##.clearfix.network__row--left.network__row > li.network__item::after
+kompas.com##.col-bs9-2.col-offset-0
+kompas.com##.eee.social--inline
+kompas.com##.js-giant-wp-sticky-parent.clearfix.col-offset-fluid.row > .col-bs10-3
+kompas.com##.js-tower-sticky-parent.clearfix.mt2.read__article ~div
+kompas.com##.kid__button:has-text(Epaper gratis)
+kompas.com##.kid__wrap:has-text(/premium/i)
+kompas.com##.logo__awards__link
+kompas.com##.nav--sticky.nav.clearfix.row
+kompas.com##.nav__link--new.nav__link--jeo.nav__link::after
+kompas.com##.nav__link--new::after
+kompas.com##.network--hot::after
+kompas.com##a[href*=\"kompas.com/tag/\"]:style(color:#000 !important;pointer-events: none !important; cursor: default !important;font-weight:normal !important;)
+kompas.com##div.clearfix.mt2.ga--related
+kompas.com##div.clearfix.mt2.row:has-text(Terkini)
+kompas.com##div.logo__achieve__item
+kompas.com##div>ul>li>a:has-text(/masuk/i)
+kompas.com##li.nav__item::after
+kompas.com##p:has-text(/baca juga/i)
+kumparan.com##+js(ra, href, a[href^=\"https://kumparan.com/topic/\"])
+kumparan.com##a.track_share_button:upward(6)
+kumparan.com##button[class^=\"NewsCard\"]
+kumparan.com##div>a>span>div>div[class^=\"Iconweb\"]
+kumparan.com##div[class^=KumparanIframely__IframelyWrapper]
+kumparan.com##div[class^=LoadingDotweb__LoadingWrapper]:upward(2)
+kumparan.com##div[class^=MediaHelper__EmbedEditorWrapper]
+kumparan.com##div[class^=PageWrapper2019__HeaderHolder]:style(position:absolute !important)
+kumparan.com##div[class^=PageWrapper2019__NavigationHolder]:style(position:absolute !important)
+kumparan.com##div[class^=\"Badged\"]
+kumparan.com##div[class^=components__NormalWidth]:has-text(***)~div
+liputan6.com###related-news
+liputan6.com##.article-content-body__item-break
+liputan6.com##.article-content-body__item-loadmore
+liputan6.com##.article-content-body__item-page:style(display:unset !important)
+liputan6.com##.authentication--popup
+liputan6.com##.baca-juga
+liputan6.com##.bottom.read-page--social-share
+liputan6.com##.container-aside
+liputan6.com##.footer__wrapper-loading-image
+liputan6.com##.inner-container-article:style(width:100% !important)
+liputan6.com##.tags--snippet
+liputan6.com##.top.read-page--social-share
+liputan6.com##div [id^=\"reactions\"]
+liputan6.com##div.article-content-body__item-page_hidden.article-content-body__item-page> .article-content-body__item-title:has-text(Saksikan video pilihan berikut ini:)
+liputan6.com##p>[href^=\"https://www.liputan6.com/\"]:style(color:#000 !important;pointer-events: none !important; cursor: default !important;font-weight:normal !important;)
+m.detik.com###relatedgtm
+m.detik.com##.banner_reg
+m.detik.com##.detail > .detail_area
+m.detik.com##div.title_box
+m.republika.co.id###adsframe
+m.republika.co.id###main-menu:style(position:unset !important)
+m.republika.co.id##.detail-content > .share
+m.republika.co.id##.detail-content~*
+m.republika.co.id##.detail-header > .share
+m.republika.co.id##.list-navigation
+m.republika.co.id##.navbar-fixed-top.header:style(position:absolute !important)
+m.republika.co.id##.tag
+m.republika.co.id##.wrap-terkait
+m.republika.co.id##.wrap-terkait~div
+m.republika.co.id##div.wrap-other
+m.republika.co.id##footer
+m.republika.co.id##header:style(position:absolute !important)
+m.tribunnews.com###div-Anchor
+m.tribunnews.com###jae_userscript_box
+m.tribunnews.com##.fthin.f24.p510
+m.tribunnews.com##.fthin.f24.p515:has-text(berita POPULER):upward(1)
+m.tribunnews.com##.main > .ac.pa10
+merdeka.com###mdk-leaderboard
+merdeka.com##.disclaimer-comment
+merdeka.com##.list-join16
+merdeka.com##.mdk-dt-crosslink.mdk-dt-box
+merdeka.com##.mdk-dt-terkait
+merdeka.com##.mdk-komentar
+merdeka.com##.mdk-left:style(width:100% !important)
+merdeka.com##.mdk-readmore
+merdeka.com##.mdk-right
+merdeka.com##.mdk-tagv3:has-text(/hot topics/i)
+mojok.co##div>a:has-text(Baca juga:)
+okezone.com##.detads
+okezone.com##p:has-text(/baca juga/i)
+pikiran-rakyat.com##.cearfix.container > .clearfix.col-offset-fluid > .col-bs12-4
+pikiran-rakyat.com##.clearfix.mt3.read__tagging
+pikiran-rakyat.com##p:if(strong:has-text(/baca juga/i)>a)
+pikiran-rakyat.com##p>a
+pikiran-rakyat.com##section.clearfix.mt3
+republika.co.id##.baca-juga
+republika.co.id##.body-video+br
+republika.co.id##.container-promote
+republika.co.id##.container-promote~div
+republika.co.id##.header2.cb-header
+republika.co.id##.picked-article:has-text(Baca Juga)
+republika.co.id##.set_conten_detail:style(width:100% !important)
+republika.co.id##.sosmed_share
+republika.co.id##.topline-detail.adv_topline
+republika.co.id##.wrap_footer
+republika.co.id##.wrap_sosmed
+republika.co.id##a[href^=\"https://republika.co.id/tag/\"]:style(color:#000 !important;pointer-events: none !important; cursor: default !important;font-weight:normal !important;)
+republika.co.id##div.bungkus_kanan
+republika.co.id##div.wrap_blok:has(ul>li:has(a[href^=\"https://republika.co.id/tag/\"]))
+republika.co.id##video.body-video
+sindonews.com##.article-comment
+sindonews.com##.article-comment-title
+sindonews.com##.baca-inline
+sindonews.com##.baca-inline + br
+sindonews.com##.berita-terkini
+sindonews.com##.config-font
+sindonews.com##.detail-left
+sindonews.com##.grid_8:has-text(/terpopuler/i)
+sindonews.com##.header-top > .clearfix.container
+sindonews.com##.leftbar-article
+sindonews.com##.list-detail
+sindonews.com##.showvideo
+sindonews.com##.terpopulerv2
+sindonews.com##a:has-text(/baca juga/i)
+suara.com###bottom-sidebar
+suara.com##.baca-juga-1
+suara.com##.baca-juga-1 ~*
+suara.com##.header-top
+suara.com##.new-header:style(position:absolute !important)
+suara.com##a[href^="https://www.suara.com/tag/"]:style(color:#000 !important;pointer-events: none !important; cursor: default !important;font-weight:normal !important;)
+suara.com##article.column:nth-of-type(2)
+suara.com##div.widget-area-6
+suara.com##footer
+suara.com##p.baca-juga-new
+suara.com##p:nth-of-type(4) > [href=^"https://www.suara.com/tag"]
+tempo.co###ads
+tempo.co###foto
+tempo.co###popular
+tempo.co###rekomendasi
+tempo.co###section-3
+tempo.co###skin-right > div
+tempo.co###skin_right
+tempo.co###terkait
+tempo.co###update
+tempo.co###video
+tempo.co##.clearfix.sub-head
+tempo.co##.clearfix.tags
+tempo.co##.header-main.container-desktop > div.w-50:nth-of-type(2)
+tempo.co##.scroll.comments-count
+tempo.co##.selengkapnya
+tempo.co##.widget-article
+tempo.co##a[href^="https://tempo.co/read/"]:style(color:#000 !important;pointer-events: none !important; cursor: default !important;font-weight:normal !important;)
+tempo.co##a[href^="https://tempo.co/tag/"]:style(color:#000 !important;pointer-events: none !important; cursor: default !important;font-weight:normal !important;)
+tempo.co##article > h4:has-text(/lihat juga/i)
+thejakartapost.com##.channelPopular.container-right.col-xs-12.col-md-3
+thejakartapost.com##.partner-footer.col-md-2.col-xs-12
+tirto.id##.bold.baca-holder
+tirto.id##.dark-mode-pak-tirto
+tirto.id##.mb-5:has-text(/dari sejawat/i)
+tirto.id##.subscribe
+tirto.id##div.content-text-editor:nth-of-type(3) > div:has-text(/baca juga/i)
+tirto.id##div.mt-5:has-text(/terkait/i)
+today.line.me###comment_container
+today.line.me###related_container
+today.line.me###right_area
+today.line.me##._middle_share
+today.line.me##._top_share
+today.line.me##.bx-share
+today.line.me##.cp
+tribunnews.com###article_con:style(width:80% !important;)
+tribunnews.com###articleright
+tribunnews.com###artoht
+tribunnews.com###boxright
+tribunnews.com###comments
+tribunnews.com###latestul
+tribunnews.com###sosmedmn
+tribunnews.com###userid
+tribunnews.com##.bggrey2:has-text(/ikuti kami/i)
+tribunnews.com##.bgwhite:has-text(/berita terkini/i)
+tribunnews.com##.blue.search.havc
+tribunnews.com##.mb10:has-text(/tags/i)
+tribunnews.com##.mb5.side-article
+tribunnews.com##.menu-enjoy.main-menu
+tribunnews.com##.p1510.tribun-video-pilihan
+tribunnews.com##.populer
+tribunnews.com##.txt-article.side-article:style(margin:0 !important;width:100% !important;)
+tribunnews.com##.w677.fl:style(width:100% !important;)
+tribunnews.com##a[href*=\"tribunnews.com/tag/\"]:style(color:#000 !important;pointer-events: none !important; cursor: default !important;font-weight:normal !important;)
+tribunnews.com##div.mb10:has-text(/berita terkait/i)
+tribunnews.com##figure.op-interactive
+tribunnews.com##p.baca
+viva.co.id###load_article
+viva.co.id##.box.related-tag
+viva.co.id##.content_center.article-share-socmed
+viva.co.id##.lihat-juga
+viva.co.id##.right
+viva.co.id##div.embedsocmed
+viva.co.id##div.iklan-18
+viva.co.id##footer
+viva.co.id##p>a:has-text(Baca Juga:)
