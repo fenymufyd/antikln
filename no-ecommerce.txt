@@ -1,12 +1,18 @@
-0.0.0.0 bhinneka.com
-0.0.0.0 blibli.com
-0.0.0.0 bukalapak.com
-0.0.0.0 jd.id
-0.0.0.0 lazada.co.id
-0.0.0.0 olx.co.id
-0.0.0.0 orami.co.id
-0.0.0.0 shopee.co.id
-0.0.0.0 sociolla.com
-0.0.0.0 tokopedia.com
-0.0.0.0 zalora.co.id
-0.0.0.0 elevenia.co.id
+||shopee.co.id
+||shopee.com
+||shopeemobile.com
+||swiftserve.com
+
+||tokopedia.com
+||tokopedia.net
+
+||bukalapak.com
+||blibli.com
+||lazada.co.id
+||bhinneka.com
+||olx.co.id
+||orami.co.id
+||sociolla.com
+||zalora.co.id
+||zalora.io
+||zacdn.com
