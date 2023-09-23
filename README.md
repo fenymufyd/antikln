@@ -20,5 +20,8 @@ filterlists
 # support
 eh
 
+# helpful guides for making your own filterlist
+https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md
+
 # lisensi
 MIT
