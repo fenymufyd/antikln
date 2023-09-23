@@ -6,6 +6,7 @@
 ||tokopedia.com
 ||tokopedia.net
 
+||stripe.com
 ||bukalapak.com
 ||blibli.com
 ||lazada.co.id
