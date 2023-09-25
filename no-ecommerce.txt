@@ -1,12 +1,26 @@
+||cdnhwc1.com
+||cf-shopee-co-id.cdn.ampproject.org
+||shopee.cl
+||shopee.cn
 ||shopee.co.id
+||shopee.co.th
 ||shopee.com
+||shopee.jp
+||shopee.kr
+||shopee.ph
+||shopee.pl
+||shopee.sg
+||shopee.tw
+||shopee.vn
 ||shopeemobile.com
 ||swiftserve.com
+
+||aliexpress.com
+||alibaba.com
 
 ||tokopedia.com
 ||tokopedia.net
 
-||stripe.com
 ||bukalapak.com
 ||blibli.com
 ||lazada.co.id
@@ -17,3 +31,6 @@
 ||zalora.co.id
 ||zalora.io
 ||zacdn.com
+
+||stripe.com
+||midtrans.com
