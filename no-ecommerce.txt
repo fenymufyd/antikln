@@ -5,6 +5,13 @@
 ||shopee.co.id
 ||shopee.co.th
 ||shopee.com
+||shopee.com.ar
+||shopee.com.br
+||shopee.com.cdn20.com
+||shopee.com.co
+||shopee.com.hk
+||shopee.com.mx
+||shopee.com.my
 ||shopee.jp
 ||shopee.kr
 ||shopee.ph
