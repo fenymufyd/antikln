@@ -1,14 +1,15 @@
-* wikipedia.org * noop
-* wiktionary.org * noop
-* wikiquote.org * noop
-* wikivoyage.org * noop
-* wikinews.org * noop
-* wikisource.org * noop
-* wikibooks.org * noop
-* wikiversity.org * noop
-* wikidata.org * noop
-* wikifunctions.org * noop
-* wikimedia.org * noop
-* mediawiki.org * noop
-* translatewiki.net * noop
-* wmcloud.org * noop
+@@||wikipedia.org
+@@||wiktionary.org
+@@||wikiquote.org
+@@||wikivoyage.org
+@@||wikinews.org
+@@||wikisource.org
+@@||wikibooks.org
+@@||wikiversity.org
+@@||wikidata.org
+@@||wikifunctions.org
+@@||wikimedia.org
+@@||mediawiki.org
+@@||translatewiki.net
+@@||wmcloud.org
+@@||toolforge.org
