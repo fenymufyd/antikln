@@ -1,3 +1,10 @@
+! Title: indon cosmetic filter
+! Description: An attempt to clean indonesian sites, mostly news/journalism site form useless html parts ("baca juga", video embed, sticky header, excessive sidebar, dan lain lain di website media indonesia)
+! Version: 2024.05.25.0
+! Expires: 7 days
+! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+! Homepage: https://github.com/fenymufyd/antikln
+!
 alinea.id##.ads-billboard:upward(1)
 alinea.id##.bacajuga
 alinea.id##.datacovid

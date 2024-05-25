@@ -1,0 +1,13 @@
+! Title: clean whatsapp web
+! Description: remove allow notification pop up and 'get whatsapp for windows' from whatsapp web
+! Version: 2024.05.25.0
+! Expires: 7 days
+! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+! Homepage: https://github.com/fenymufyd/antikln
+!
+
+!below is to block enable notification sync pop up ad and microsoft store ad 
+web.whatsapp.com###side>span>div>div>div>div:upward(4)
+
+! block right side microsoft store ad
+web.whatsapp.com##div > div > div > div > img[src^="https://static.whatsapp.net"]:upward(2)

@@ -1,3 +1,10 @@
+! Title: No e-commerce list indon
+! Description: No ecommerce list indon. My attempt to block your access to commonly used e-commerce websites. Could be useful if you trying to prevent yourself or someone from the urge of mindless buying consumerism.
+! Version: 2024.05.25.0
+! Expires: 7 days
+! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+! Homepage: https://github.com/fenymufyd/antikln
+!
 ||cdnhwc1.com
 ||cf-shopee-co-id.cdn.ampproject.org
 ||shopee.cl

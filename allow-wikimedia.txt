@@ -1,3 +1,10 @@
+! Title: Wikimedia projects Whitelist
+! Description: Whitelist for wikimedia projects. Useful if you are a wikipedian/wikimedian.
+! Version: 2024.05.25.0
+! Expires: 7 days
+! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+! Homepage: https://github.com/fenymufyd/antikln
+!
 @@||wikipedia.org
 @@||wiktionary.org
 @@||wikiquote.org

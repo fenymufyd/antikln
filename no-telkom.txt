@@ -1,3 +1,10 @@
+! Title: No telkom
+! Description: No telkom. My attempt to block telkom sites, domain, and ip addresses.
+! Version: 2024.05.25.0
+! Expires: 7 days
+! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+! Homepage: https://github.com/fenymufyd/antikln
+!
 #ip internet positif
 0.0.0.0 103.247.8.181
 0.0.0.0 116.0.83.162
